@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yogitaraj31
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
